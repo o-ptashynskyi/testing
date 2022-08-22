@@ -1,1 +1,2 @@
 file for learning
+stroka 2

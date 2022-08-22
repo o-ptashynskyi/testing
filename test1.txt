@@ -1,2 +1,3 @@
 file for learning
 stroka 2
+stroka 3
